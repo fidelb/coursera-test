@@ -1,11 +1,14 @@
 body { 
-	padding-top: 70px; 
+	
+	margin: 0px;
+	
 }
 
 .row p{
 	color: white;
 	background-color: green;
 	padding: 5px 10px 10px 10px;
+	height: 1000px;	
 }
 
 .dish {
@@ -13,9 +16,16 @@ body {
 	text-align: center;
 	color: white;
 	background-color: green;
-	padding-top: 5px;	
+	padding-top: 5px;
+	text-align: center;
 }
 
 .navbar {
 	background-color: yellow;
+		
 }
+
+.navbar {
+	position: relative;
+}
+
